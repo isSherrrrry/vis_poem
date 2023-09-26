@@ -1,0 +1,165 @@
+Country Name,Country Code,Value
+Afghanistan,AFG,46
+Albania,ALB,13
+Angola,AGO,38
+Argentina,ARG,27
+Armenia,ARM,10
+Australia,AUS,23
+Austria,AUT,15
+Azerbaijan,AZE,14
+Bangladesh,BGD,50
+Belarus,BLR,21
+Belgium,BEL,22
+Belize,BLZ,24
+Benin,BEN,26
+Bhutan,BTN,22
+Bolivia,BOL,42
+Bosnia and Herzegovina,BIH,12
+Botswana,BWA,34
+Brazil,BRA,23
+Bulgaria,BGR,19
+Burkina Faso,BFA,19
+Burundi,BDI,40
+Cabo Verde,CPV,19
+Cambodia,KHM,19
+Cameroon,CMR,39
+Central African Republic,CAF,29
+Chad,TCD,29
+Chile,CHL,21
+China,CHN,19
+Colombia,COL,30
+Comoros,COM,16
+"Congo, Dem. Rep.",COD,47
+Costa Rica,CRI,27
+Cote d'Ivoire,CIV,27
+Croatia,HRV,13
+Cuba,CUB,14
+Cyprus,CYP,16
+Czechia,CZE,22
+Denmark,DNK,23
+Dominican Republic,DOM,19
+East Asia & Pacific,EAS,20.3372229
+Ecuador,ECU,33
+"Egypt, Arab Rep.",EGY,30
+El Salvador,SLV,21
+Equatorial Guinea,GNQ,46
+Estonia,EST,21
+Ethiopia,ETH,37
+Europe & Central Asia,ECS,20.91689455
+Fiji,FJI,52
+Finland,FIN,23
+France,FRA,22
+Gabon,GAB,41
+"Gambia, The",GMB,25
+Georgia,GEO,10
+Germany,DEU,21
+Ghana,GHA,24
+Greece,GRC,18
+Grenada,GRD,28
+Guatemala,GTM,21
+Guinea,GIN,37
+Guyana,GUY,31
+Haiti,HTI,23
+High income,HIC,22.31154896
+Honduras,HND,17
+"Hong Kong SAR, China",HKG,13
+Hungary,HUN,19
+Iceland,ISL,21
+India,IND,35
+Indonesia,IDN,22
+"Iran, Islamic Rep.",IRN,31
+Iraq,IRQ,26
+Ireland,IRL,16
+Italy,ITA,16
+Jamaica,JAM,24
+Japan,JPN,20
+Jordan,JOR,24
+Kazakhstan,KAZ,16
+Kenya,KEN,38
+Kiribati,KIR,53
+Kosovo,XKX,13
+Kyrgyz Republic,KGZ,23
+Lao PDR,LAO,19
+Latin America & Caribbean,LCN,24.97159571
+Latvia,LVA,25
+Lesotho,LSO,40
+Liberia,LBR,43
+Lithuania,LTU,22
+Low income,LIC,35.57287441
+Lower middle income,LMC,32.18925599
+Luxembourg,LUX,20
+Malawi,MWI,30
+Malaysia,MYS,19
+Maldives,MDV,19
+Mali,MLI,29
+Malta,MLT,17
+Marshall Islands,MHL,38
+Mexico,MEX,24
+"Micronesia, Fed. Sts.",FSM,35
+Middle East & North Africa,MEA,29.72377185
+Moldova,MDA,27
+Mongolia,MNG,27
+Montenegro,MNE,16
+Mozambique,MOZ,30
+Myanmar,MMR,19
+Namibia,NAM,27
+Nauru,NRU,43
+Nepal,NPL,27
+Netherlands,NLD,21
+New Zealand,NZL,23
+Nicaragua,NIC,23
+Nigeria,NGA,24
+North America,NAC,25.42152758
+North Macedonia,MKD,13
+Norway,NOR,20
+Pakistan,PAK,29
+Palau,PLW,31
+Panama,PAN,16
+Papua New Guinea,PNG,51
+Paraguay,PRY,18
+Peru,PER,38
+Philippines,PHL,14
+Poland,POL,13
+Portugal,PRT,18
+Romania,ROU,18
+Rwanda,RWA,38
+Samoa,WSM,40
+Sao Tome and Principe,STP,27
+Senegal,SEN,24
+Serbia,SRB,17
+Sierra Leone,SLE,36
+Singapore,SGP,11
+Slovak Republic,SVK,18
+Slovenia,SVN,18
+Solomon Islands,SLB,50
+South Africa,ZAF,24
+South Asia,SAS,35.53518376
+South Sudan,SSD,41
+Spain,ESP,15
+Sri Lanka,LKA,24
+Sub-Saharan Africa,SSF,33.04130734
+Suriname,SUR,28
+Sweden,SWE,21
+Switzerland,CHE,12
+Tajikistan,TJK,24
+Tanzania,TZA,38
+Thailand,THA,24
+Timor-Leste,TLS,38
+Togo,TGO,25
+Tonga,TON,37
+Trinidad and Tobago,TTO,28
+Tunisia,TUN,25
+Turkiye,TUR,32
+Tuvalu,TUV,39
+Uganda,UGA,45
+Ukraine,UKR,18
+United Kingdom,GBR,24
+United States,USA,26
+Upper middle income,UMC,22.14088047
+Uruguay,URY,18
+Vanuatu,VUT,47
+"Venezuela, RB",VEN,19
+Vietnam,VNM,25
+West Bank and Gaza,PSE,29
+Zambia,ZMB,41
+Zimbabwe,ZWE,35
