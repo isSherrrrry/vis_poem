@@ -2,6 +2,11 @@
 
 This is the semester-long coursework for [Emory CS 441](https://emilywall.github.io/vis/) with Dr. Emily Wall. 
 
+## Milestone 4 - Static Vis Implementation
+
+To run the code, please download the [website](/website) folder and start running the start.html file. Please ensure to have an internet connection to load d3.js as well as Google Fonts. 
+
+
 ## Milestone 2 - Curate Data
 For the poem, I decided to use multiple datasets to visualize the entire poem. 
 In total, I will be using 5 datasets, which covers all the topics mentioned in my poem, respectively are: 1) GDI (gender development index) 2) gender wage gap 3) women unpaid work 4) domestic violence and 5) abortion and women health. The datasets are all in tabular forms and in the csv format after cleaning. The cleaning procedure including removing rows with missing values. By manually examing the datasets and with the python <pre>describe()</pre> function, I believe that the datasets do not contain any errors. 
