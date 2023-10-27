@@ -32,7 +32,6 @@ li{
 }
 
 body{
-	overflow: hidden;
 	background-color: #BF9270;
 }
 
@@ -54,8 +53,11 @@ body a{
     display: none;
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 1200px){
 	.content{
+		display: none;
+	}
+	.footer{
 		display: none;
 	}
 	.wap{
