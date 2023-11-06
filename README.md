@@ -2,7 +2,7 @@
 
 This is the semester-long coursework for [Emory CS 441](https://emilywall.github.io/vis/) with Dr. Emily Wall. 
 
-## Milestone 4 - Static Vis Implementation
+## Milestone 4 & 5 - Vis Implementation
 
 To run the code, please download the [website](/website) folder and start running the start.html file. Please ensure to have an internet connection to load d3.js as well as Google Fonts. 
 
